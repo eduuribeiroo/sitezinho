@@ -1,0 +1,12 @@
+.navbar-nav .nav-link.active {
+    color: rgb(39, 114, 16); /* Cor do texto */
+    font-weight: bold; /* Negrito (opcional) */
+}
+.carousel h1{
+    color: white;
+    background-color: black;
+}
+.carousel p{
+    color: rgb(236, 57, 12);
+    background-color: black;
+}
