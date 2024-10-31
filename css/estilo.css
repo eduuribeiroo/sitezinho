@@ -10,3 +10,7 @@
     color: rgb(236, 57, 12);
     background-color: black;
 }
+.row h2{
+    text-align: center;
+    padding-bottom: 40px;
+}
